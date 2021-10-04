@@ -1,0 +1,32 @@
+[
+  {  
+    "id":1,
+    "name": "English",
+    "country": "England & USA",
+    "img": "https://i.guim.co.uk/img/media/8e073fcc1dd41f7c1bc38b3d857cb9c89781d868/14_0_3472_2083/master/3472.jpg?width=620&quality=85&auto=format&fit=max&s=3db48a1d5a192e06a927b7f97fba7b61",
+    "Price":29
+
+
+  },
+  {
+    "id": 2,
+    "name": "French",
+    "country": "France",
+    "img": "https://europa.eu/europass/sites/default/files/2020-04/France_0.jpg",
+    "price":20
+  },
+  {
+    "id":3,
+    "name": "Chinese",
+    "country": "China",
+    "img":"https://image.shutterstock.com/image-photo/view-bund-across-huangpu-river-600w-421602529.jpg",
+    "price":25
+  },
+  {
+    "id":4,
+    "name": "Italian",
+    "country": "Itali",
+    "img": "https://www.broadwaytravel.com/blog/wp-content/uploads/2018/11/The-beautiful-Grand-Canal-in-the-famous-Italian-city-Venice-580x345.jpg",
+    "price":28
+  }
+]
